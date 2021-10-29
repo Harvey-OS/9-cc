@@ -4,7 +4,7 @@
 #	They are almost always the same.
 
 #	On Nt systems, the ROOT path MUST be of the form 'drive:/path'
-ROOT=$HOME/hg/ken-cc
+ROOT=/home/rminnich/harvey/9-cc
 
 #   build system OS type
 SYSHOST=Linux
@@ -13,7 +13,7 @@ SYSHOST=Linux
 SYSTARG=Linux
 
 #   target system object type
-OBJTYPE=386
+OBJTYPE=amd64
 
 #
 #	no changes required beyond this point

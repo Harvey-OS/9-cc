@@ -44,15 +44,15 @@ NOTPLAN9=\
 #	9a\
 #	9c\
 #	9l\
-	qa\
-	qc\
-	ql\
-	va\
-	vc\
-	vl\
-	ka\
-	kc\
-	kl\
+#	qa\
+#	qc\
+#	ql\
+#	va\
+#	vc\
+#	vl\
+#	ka\
+#	kc\
+#	kl\
 	mk\
 	ksize\
 	kstrip\
